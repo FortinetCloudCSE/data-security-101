@@ -1,13 +1,13 @@
 {
-  "repoName":"UserRepo",
-  "author":"Jeff Kopko",
-  "workshopTitle":"Hugo for Fortinet TECWorkshops",
+  "repoName":"data-security-101",
+  "author":"Chris Tyrrell",
+  "workshopTitle":"Data Security 101",
   "themeVariant":"Workshop",
-  "logoBannerText":"FortiHugo",
+  "logoBannerText":"Data Security 101",
   "logoBannerSubText":"",
   "errorLevel":"warning",
   "googleServicesID":"G-5RZBH288ST",
-  "marketingCode": "FortiHugo202",
+  "marketingCode": "CSE-XPerts2025",
   "shortcuts": [
   {
     "text": "Fortinet Cloud CSE GitHub Org",
