@@ -1,8 +1,1 @@
-
-# data-security-101
-
-To view the workshop, please go here: [GitHub Pages Link](https://fortinetcloudcse.github.io/data-security-101/)
-
----
-
-For more information on creating these workshops, visit [FortinetCloudCSE User Repo](https://fortinetcloudcse.github.io/UserRepo/)
+<h1>data-security-101</h1><h3>To view the workshop, please go here: <a href="https://fortinetcloudcse.github.io/data-security-101/">data-security-101</a></h3><hr><h3>For more information on creating these workshops, please go here: <a href="https://fortinetcloudcse.github.io/UserRepo/">FortinetCloudCSE User Repo</a></h3>
