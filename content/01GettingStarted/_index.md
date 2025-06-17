@@ -1,6 +1,6 @@
 ---
 title: "Ch 1 Getting Started with Repos, Containers, Go Utility, and Hugo"
-linkTitle: "Ch 1: Setup - OLD V3"
+linkTitle: "Ch 1: Setup - OLD V4"
 weight: 10
 #archetype: "chapter"
 ---
