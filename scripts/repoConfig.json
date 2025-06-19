@@ -1,6 +1,6 @@
 {
   "repoName":"data-security-101",
-  "author":"Chris Tyrrell",
+  "author":"Chris Tyrrell, Ken Roberts",
   "workshopTitle":"Data Security 101",
   "themeVariant":"Workshop",
   "logoBannerText":"Data Security 101",
@@ -10,8 +10,8 @@
   "marketingCode": "CSE-XPerts2025",
   "shortcuts": [
   {
-    "text": "Fortinet Cloud CSE GitHub Org",
-    "URL": "https://github.com/FortinetCloudCSE",
+    "text": "Fortinet FortiDLP Product Page",
+    "URL": "https://www.fortinet.com/products/fortidlp",
     "icon": "fa-graduation-cap",
     "weight":10
   },
