@@ -1,6 +1,6 @@
 {
   "repoName":"data-security-101",
-  "author":"Chris Tyrrell",
+  "author":"Chris Tyrrell, Ken Roberts",
   "workshopTitle":"Data Security 101",
   "themeVariant":"Workshop",
   "logoBannerText":"Data Security 101",
@@ -10,28 +10,40 @@
   "marketingCode": "CSE-XPerts2025",
   "shortcuts": [
   {
-    "text": "Fortinet Cloud CSE GitHub Org",
-    "URL": "https://github.com/FortinetCloudCSE",
+    "text": "Fortinet FortiDLP Product Page",
+    "URL": "https://www.fortinet.com/products/fortidlp",
     "icon": "fa-graduation-cap",
     "weight":10
   },
   {
-    "text": "Fortinet Standard Workshop Guide",
-    "URL": "https://fortinetcloudcse.github.io/UserRepo",
+    "text": "Fortinet Data Loss Prevention",
+    "URL": "https://www.fortinet.com/products/fortidlp/data-loss-prevention",
     "icon": "fa-tools",
     "weight":20
   },
   {
-    "text": "Fortinet Standard Workshop Template Repo",
-    "URL": "https://github.com/FortinetCloudCSE/UserRepo",
+    "text": "Fortinet "Insider Risk Management,
+    "URL": "https://www.fortinet.com/products/fortidlp/insider-risk-management",
     "icon": "fa-tools",
     "weight":30
   },
-  {
-    "text": "Fortinet Hugo reLearn theme - Guide",
-    "URL": "https://mcshelby.github.io/hugo-theme-relearn/index.html",
+{
+    "text": "Fortinet SaaS Data Security",
+    "URL": "https://www.fortinet.com/products/fortidlp/saas-data-security",
     "icon": "fa-tools",
     "weight":40
+  },
+{
+    "text": "Fortinet Risk-Informed User Education",
+    "URL": "https://www.fortinet.com/products/fortidlp/risk-informed-user-education",
+    "icon": "fa-tools",
+    "weight":50
+  },
+  {
+    "text": "Fortinet DLP Testing Tool ",
+    "URL": "https://dlptest.ai/",
+    "icon": "fa-tools",
+    "weight":60
   }
   ]
 }
