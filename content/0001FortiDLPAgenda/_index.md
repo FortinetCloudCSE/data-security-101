@@ -16,6 +16,6 @@ FortiDLP is a next-generation endpoint DLP and insider risk management solution 
 At the end of this session, attendees should have a solid understanding of the following FortiDLP concepts:
   - Product Architecture
   - Management Console Configuration
-  - Policy 
+  - Policy Creation
 
-{{% notice note %}}  You will ultimately need to make a minor change to the **_hugo.toml_** file in this repo, and when you do, the Hugo Local Webserver directory will change to the name of your repo {{% /notice %}}
+* ![agenda](agenda.jpg)
