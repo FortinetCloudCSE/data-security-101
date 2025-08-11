@@ -1,8 +1,8 @@
 ---
-title: "Ch 2 Hugo Content Structure"
+title: "Hands On Lab"
 chapter: false
-linkTitle: "Ch 2: Hugo Content"
-weight: 20
+linkTitle: "Hands On Lab"
+weight: 9 
 ---
 
 ### ***Learn to organize and create content in Hugo- estimated duration 20min***

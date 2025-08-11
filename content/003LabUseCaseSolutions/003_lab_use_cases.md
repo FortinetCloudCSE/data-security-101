@@ -1,6 +1,6 @@
 ---
-title: "Task 3 - Adjust hugo.toml site settings"
-linkTitle: "Site Frontmatter"
+title: "Lab Use Cases"
+linkTitle: "Lab Use Cases"
 chapter: false
 weight: 3
 ---

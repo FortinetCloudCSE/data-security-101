@@ -1,6 +1,6 @@
 ---
-title: "Task 2 - Create/Modify MD pages"
-linkTitle: "MD Pages"
+title: "Lab Rules of Engagement"
+linkTitle: "Lab Rules of Engagement"
 chapter: false
 weight: 2
 ---

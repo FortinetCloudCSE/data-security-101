@@ -1,8 +1,8 @@
 ---
-title: "Management Console Deep Dive (60 minutes)"
+title: "Lab Use Case Solutions - SPOILERS AHEAD!"
 chapter: false
-linkTitle: "Management Console Deep Dive"
-weight: 7
+linkTitle: "Lab Use Case Solutions"
+weight: 15
 ---
 
 ### ***Learn to organize and create content in Hugo- estimated duration 20min***
