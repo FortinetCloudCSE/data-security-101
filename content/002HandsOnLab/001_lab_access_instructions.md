@@ -8,9 +8,22 @@ weight: 1
 
 {{% notice warning %}} Please note that the FortiDLP management console is a shared environment. Any changes made can impact other users if not properly scoped via labels. Please see the "Lab Rules of Engagement" page before making any changes.{{% /notice %}}
 
-### Virtual Endpoint Access Instructions
+1)  Open your preferred browser (Chrome, Edge, or Firefox) and navigate to:
+
+https://fortidlp-training.reveal.nextdlp.com/
+
+2)  Login to FortiDLP with the course credentials you received via the email address you used to register for the course.
+
+    ![consoleAccess1](001_lab_access_instructions_images/vm_access_3.jpg)
+
+{{% notice note %}} If you did not receive or cannot find the email with your login credentials, notify a course instructor who will initiate a "re-send" of the credentials. {{% /notice %}}
+
+{{% notice tip %}} Your user name is your first initial followed by your last name... NOT your email address (ex. John Smith would be "jsmith") {{% /notice %}}
+
+### Virtual Endpoint Access and Configuration Instructions
 
 1)	Enter the URL for your specific assigned VM device.
+
 2)	Enter your assigned “username” and “password” in the appropriate fields and click "Login". The Username identifies your device:
   
     ![labAccess1](001_lab_access_instructions_images/vm_access_1.jpg)
