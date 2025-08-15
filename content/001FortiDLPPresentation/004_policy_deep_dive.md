@@ -1,5 +1,5 @@
 ---
-title: "Policy Deep Dive"
+title: "Policy Deep Dive (30 minutes)"
 linkTitle: "Policy Deep Dive"
 weight: 4
 ---

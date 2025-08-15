@@ -1,6 +1,6 @@
 ---
-title: "Architecture"
-linkTitle: "Architecture"
+title: "Architecture Review (15 minutes)"
+linkTitle: "Architecture Review"
 weight: 2
 ---
 

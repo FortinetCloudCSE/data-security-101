@@ -1,6 +1,6 @@
 ---
-title: "Overview"
-linkTitle: "Overview"
+title: "FortiDLP Introduction (15 minutes)"
+linkTitle: "FortiDLP Introduction"
 weight: 1
 ---
 

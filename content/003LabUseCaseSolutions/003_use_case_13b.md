@@ -4,9 +4,14 @@ linkTitle: "Use Case 13B"
 weight: 14
 ---
 
-{{% notice %}} Prevent users from downloading executable files from the web
+{{% notice %}} Create a custom regular expression policy asset to match a number in the format: AA-111111
 
 {{% /notice %}}
 
+1. Click “Policies” in the left hand panel, click “Policy assets”, and click “Create new policy asset”
 
-### 1. Go to 
+   ![case13b_1](003_lab_use_cases_images/case13b_1.png)
+
+2. Click in the text box for “Policy asset name” and enter “jsmith – use case 13b regex” where jsmith is your first initial followed by last name. Click “Generic string list” and select “Content inspection pattern.” Click the text box under “Name” and enter “jsmith - use case 13b regex”. Click in the text box under “Pattern” and enter “[a-zA-Z]{2}-\d{6}”. Click “Create.”
+
+   ![case13b_2](003_lab_use_cases_images/case13b_2.png)
