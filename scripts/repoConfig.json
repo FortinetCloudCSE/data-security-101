@@ -2,12 +2,15 @@
   "repoName":"data-security-101",
   "author":"Chris Tyrrell, Ken Roberts",
   "workshopTitle":"Data Security 101",
-  "themeVariant":"Workshop",
+  "themeVariant":"Xperts2025",
   "logoBannerText":"Data Security 101",
   "logoBannerSubText":"",
   "errorLevel":"warning",
   "googleServicesID":"G-5RZBH288ST",
   "marketingCode": "CSE-XPerts2025",
+  "bannerLine1": "Data Security 101",
+  "bannerLine2": "Data Security and User Risk Analysis",
+  "bannerLine3": "with FortiDLP",
   "shortcuts": [
   {
     "text": "Fortinet FortiDLP Product Page",
