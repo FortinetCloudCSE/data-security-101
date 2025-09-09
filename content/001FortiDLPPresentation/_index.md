@@ -8,4 +8,4 @@ weight: 6
 ### ***FortiDLP Presentation Agenda***
 
 
-* ![agenda](agenda.jpg)
+* {{< figure src="agenda.jpg" alt="agenda" >}}
