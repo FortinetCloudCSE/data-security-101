@@ -1,9 +1,7 @@
 ---
 title: "Data Security 101"
-linkTitle: "DS101 - DLP "
 weight: 1
 archetype: "home"
-description: "Home Page"
 ---
 
 # <p style="text-align: center;">FortiDLP</p>
@@ -93,3 +91,6 @@ using templated PII/PHI/PCI policies</br>
  <div style="margin-left: 50px;">  1) Storing forensics logs at customer-controlled in-region data centers</br>
    2) Minimizing pseudonymized investigation data sets</br>
    3) Including out-of-the-box investigation authorization workflows for analysts</br>
+
+
+{{< quizframe page="/gamebytag?tag=ch1" height="800" width="100%" >}}
