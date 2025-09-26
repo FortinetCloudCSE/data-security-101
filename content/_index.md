@@ -93,4 +93,4 @@ using templated PII/PHI/PCI policies</br>
    3) Including out-of-the-box investigation authorization workflows for analysts</br>
 
 
-{{< quizframe page="/gamebytag?tag=ch1" height="800" width="100%" >}}
+{{< quizframe page="/gamebytag?tag=post" height="800" width="100%" >}}
