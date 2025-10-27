@@ -6,6 +6,8 @@ archetype: "home"
 
 # <p style="text-align: center;">FortiDLP</p>
 
+{{< quizframe page="/gamebytag?tag=pre" height="800" width="100%" >}}
+
 ## Next-Gen DLP and Insider Risk Management Solution to Anticipate and Prevent Data Theft
 
 ### Overview: securing data from insider threats and risks
@@ -91,6 +93,3 @@ using templated PII/PHI/PCI policies</br>
  <div style="margin-left: 50px;">  1) Storing forensics logs at customer-controlled in-region data centers</br>
    2) Minimizing pseudonymized investigation data sets</br>
    3) Including out-of-the-box investigation authorization workflows for analysts</br>
-
-
-{{< quizframe page="/gamebytag?tag=post" height="800" width="100%" >}}

@@ -18,7 +18,7 @@ weight: 2
 
 {{% notice warning %}} Please note that the FortiDLP management console is a shared environment. Any changes made can impact other users if not properly scoped via labels. Please see the "Lab Rules of Engagement" page before making any changes.{{% /notice %}}
 
-1)  Open your preferred browser (Chrome, Edge, or Firefox) and navigate to:
+1)  Open your Chrome Browser on the virtual endpoint and navigate to the below URL:
 
 https://fortidlp-training.reveal.nextdlp.com/
 

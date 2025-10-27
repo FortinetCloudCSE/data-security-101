@@ -13,3 +13,5 @@ weight: 2
 {{< figure src="architecture3.jpg" alt="architecture3" >}}
 
 {{< figure src="architecture4.jpg" alt="architecture4" >}}
+
+{{< quizframe page="/gamebytag?tag=architecture" height="800" width="100%" >}}
