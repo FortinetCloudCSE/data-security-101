@@ -25,3 +25,5 @@ weight: 4
 {{< figure src="policyDeepDive09.jpg" alt="policyDeepDive9" >}}
 
 {{< figure src="policyDeepDive10.jpg" alt="policyDeepDive10" >}}
+
+{{< quizframe page="/gamebytag?tag=policy" height="800" width="100%" >}}

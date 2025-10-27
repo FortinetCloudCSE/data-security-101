@@ -23,3 +23,5 @@ weight: 1
 {{< figure src="introduction_8.jpg" alt="introduction_8" >}}
 
 {{< figure src="introduction_9.jpg" alt="introduction_9" >}}
+
+{{< quizframe page="/gamebytag?tag=introduction" height="800" width="100%" >}}

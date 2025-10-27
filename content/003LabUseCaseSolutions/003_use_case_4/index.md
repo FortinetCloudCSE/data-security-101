@@ -31,10 +31,28 @@ weight: 4
 {{% notice tip%}} “Wide breadth detection” will match on the number only. “Narrow breadth detection” will match on the specified pattern in addition to a keyword as defined in the “Policy asset” being used. The test file downloaded from dlptest.ai will trigger the alert with either wide or narrow breadth selected.
 {{% /notice %}}
 
-7. Expand “Action configuration” and enable “Block browser upload” and “Display message. Enter “Use case 4” in the “Title” text box. Enter “Use case 4 - Prevent printing of PII to PDF” in the “Body” text box. Optionally, enable the other options in the “Display message” area if desired.
+7. Expand “Action configuration” and enable “Block print job” and “Display message. Enter “Use case 4” in the “Title” text box. Enter “Use case 4 - Prevent printing of PII to PDF” in the “Body” text box. Optionally, enable the other options in the “Display message” area if desired.
 
    {{< figure src="case4_5.png" alt="case4_5" >}}
 
 8. Scroll down and click “Save and exit” in the lower right hand corner.
 
 9. You should now see the newly created policy in the window
+
+{{% notice tip%}}:bulb: Testing instructions:<br><br>
+Make sure the policy group is published and that you have requested the new policy from the endpoint. To refresh the policy on the endpoint, navigate to:<br>
+
+c:\program files\jazz networks\agent<br>
+
+run the following command:<br>
+
+agent config refresh<br>
+
+Once you have refreshed the config, follow the below instructions to test the policy.
+
+1. Navigate to "dlptest.ai"
+2. Click CSV under "File Download" to download a test file to the "Downloads" folder
+3. Open the file downloaded in step two using notepad
+4. Click "File-->Print" and choose "Microsoft Print to PDF" from the available printers and print the document
+5. The print job should be blocked and a warning message displayed
+{{% /notice %}}
