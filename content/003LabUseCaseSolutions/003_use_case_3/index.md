@@ -40,3 +40,20 @@ weight: 3
 9. You should now see the newly created policy in the window
 
    {{< figure src="case3_6.png" alt="case3_6" >}}
+
+{{% notice tip%}}:bulb: Testing instructions:<br><br>
+Make sure policy group is published and that you have requested the new policy from the endpoint. To refresh the policy on the endpoint, navigate to:<br>
+
+c:\program files\jazz networks\agent<br>
+
+run the following command:<br>
+
+agent config refresh<br>
+
+Once you have refreshed the config, follow the below instructions to test the policy.
+
+1. Navigate to "dlptest.ai"
+2. Click CSV under "File Download" to download a test file to the "Downloads" folder
+3. Drag and drop the file downloaded in step two into the box under "File Upload"
+4. File upload should be blocked and a prompt should appear on the screen.
+{{% /notice %}}
