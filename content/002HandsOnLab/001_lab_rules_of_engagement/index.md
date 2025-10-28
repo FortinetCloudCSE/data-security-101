@@ -14,7 +14,13 @@ weight: 1
 {{% notice %}}:bulb: Use the following naming convention for all lab use cases and configurations: <br><br>
 First initial followed by last name - use case (ex. Josh Smith creating a policy for use case 3 would be "jsmith - Prevent upload of PII to website").{{% /notice %}}
 
-{{% notice %}}:bulb: As you complete each use case policy, you can either choose to test it immediately, or complete all policies prior to testing. If you choose to test immediately, make sure that you publish the policy group. Once the policy group is published, you can force the agent heartbeat by performing the following command from an administrator command line prompt: <br><br>
+{{% notice %}}:bulb: As you complete each use case policy, you can either choose to test it immediately, or complete all policies prior to testing. If you choose to test immediately, make sure that you publish the policy group. Once the policy group is published, refresh the policy on the endpoint by navigating to:<br>
+
+c:\program files\jazz networks\agent<br>
+
+run the following command:<br>
+
+agent config refresh<br> <br><br>
 
 
 {{% /notice %}}
