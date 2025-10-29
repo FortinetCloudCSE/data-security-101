@@ -50,3 +50,23 @@ weight: 8
 11. Scroll down and click “Save and exit” in the lower right hand corner.
 
 12. You should now see the newly created policy in the window
+
+{{% notice tip%}}:bulb: Testing instructions:<br><br>
+Make sure the policy group is published and that you have requested the new policy from the endpoint. To refresh the policy on the endpoint, navigate to:<br>
+
+c:\program files\jazz networks\agent<br>
+
+run the following command:<br>
+
+agent config refresh<br>
+
+Once you have refreshed the config, follow the below instructions to test the policy.
+
+1. Navigate to "dlptest.ai"
+2. Click CSV under "File Download" to download a test file to the "Downloads" folder
+3. Open the file using notepad
+4. Navigate to "chatgpt.com"
+5. Copy data from the file downloaded in step 2
+6. Paste the data copied from step 5 into the chat window for "chatgpt.com"
+7. The paste operation should be allowed and a warning prompt should be displayed
+{{% /notice %}}

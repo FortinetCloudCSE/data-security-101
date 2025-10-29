@@ -42,7 +42,7 @@ weight: 3
    {{< figure src="case3_6.png" alt="case3_6" >}}
 
 {{% notice tip%}}:bulb: Testing instructions:<br><br>
-Make sure policy group is published and that you have requested the new policy from the endpoint. To refresh the policy on the endpoint, navigate to:<br>
+Make sure the policy group is published and that you have requested the new policy from the endpoint. To refresh the policy on the endpoint, navigate to:<br>
 
 c:\program files\jazz networks\agent<br>
 

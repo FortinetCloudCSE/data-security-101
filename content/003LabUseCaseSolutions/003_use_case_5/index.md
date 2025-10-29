@@ -48,3 +48,20 @@ weight: 5
 11. Scroll down and click “Save and exit” in the lower right hand corner.
 
 12. You should now see the newly created policy in the window
+
+{{% notice tip%}}:bulb: Testing instructions:<br><br>
+Make sure the policy group is published and that you have requested the new policy from the endpoint. To refresh the policy on the endpoint, navigate to:<br>
+
+c:\program files\jazz networks\agent<br>
+
+run the following command:<br>
+
+agent config refresh<br>
+
+Once you have refreshed the config, follow the below instructions to test the policy.
+
+1. Navigate to "https://login.microsoftonline.com/" and login using the credentials provided
+2. Select "OneDrive" from the "App launcher" in the upper left hand corner of the web page
+3. Download any file from any folder in OneDrive
+4. The download should NOT be blocked, but a warning prompt should be displayed on the screen
+{{% /notice %}}

@@ -41,3 +41,19 @@ weight: 10
 8. Scroll down and click “Save and exit” in the lower right hand corner.
 
 9. You should now see the newly created policy in the window
+
+{{% notice tip%}}:bulb: Testing instructions:<br><br>
+Make sure the policy group is published and that you have requested the new policy from the endpoint. To refresh the policy on the endpoint, navigate to:<br>
+
+c:\program files\jazz networks\agent<br>
+
+run the following command:<br>
+
+agent config refresh<br>
+
+Once you have refreshed the config, follow the below instructions to test the policy.
+
+1. Navigate to "7-zip.org"
+2. Clock the link to download the .exe file for 64-bit x64 Windows
+3. The file download should be prevented and a warning prompt displayed
+{{% /notice %}}

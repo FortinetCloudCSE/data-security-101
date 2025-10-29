@@ -31,3 +31,18 @@ weight: 13
    {{< figure src="case13a_4.png" alt="case13a_4" >}}
 
 8. Scroll down and click “Save and exit” in the lower right hand corner.
+
+{{% notice tip%}}:bulb: Testing instructions:<br><br>
+Make sure the policy group is published and that you have requested the new policy from the endpoint. To refresh the policy on the endpoint, navigate to:<br>
+
+c:\program files\jazz networks\agent<br>
+
+run the following command:<br>
+
+agent config refresh<br>
+
+Once you have refreshed the config, follow the below instructions to test the policy.
+
+1. Launch the "Calculator App" by typing "calc" into the Windows Search bar
+2. Calculator should immediately be terminated and a warning prompt displayed
+{{% /notice %}}

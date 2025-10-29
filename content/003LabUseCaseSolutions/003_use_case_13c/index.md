@@ -43,3 +43,21 @@ weight: 15
    {{< figure src="case13c_7.png" alt="case13c_7" >}}
 
 11. Scroll down and click “Save and exit” in the lower right hand corner.
+
+{{% notice tip%}}:bulb: Testing instructions:<br><br>
+Make sure the policy group is published and that you have requested the new policy from the endpoint. To refresh the policy on the endpoint, navigate to:<br>
+
+c:\program files\jazz networks\agent<br>
+
+run the following command:<br>
+
+agent config refresh<br>
+
+Once you have refreshed the config, follow the below instructions to test the policy.
+
+1. Launch the "notepad" and create a file containing the text string "TD-123456"
+2. Save the text file to the desktop
+3. Close the text file
+4. Re-open the text file saved on the desktop in step 2 above
+5. Notepad should be immediately terminated and a warning prompt displayed
+{{% /notice %}}

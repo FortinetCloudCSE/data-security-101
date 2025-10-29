@@ -34,3 +34,18 @@ weight: 9
 8. Scroll down and click “Save and exit” in the lower right hand corner.
 
 9. You should now see the newly created policy in the window
+
+{{% notice tip%}}:bulb: Testing instructions:<br><br>
+Make sure the policy group is published and that you have requested the new policy from the endpoint. To refresh the policy on the endpoint, navigate to:<br>
+
+c:\program files\jazz networks\agent<br>
+
+run the following command:<br>
+
+agent config refresh<br>
+
+Once you have refreshed the config, follow the below instructions to test the policy.
+
+1. Navigate to "chatgpt.com"
+2. A warning prompt should be displayed
+{{% /notice %}}
