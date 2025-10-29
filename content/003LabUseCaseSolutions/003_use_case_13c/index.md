@@ -55,7 +55,7 @@ agent config refresh<br>
 
 Once you have refreshed the config, follow the below instructions to test the policy.
 
-1. Launch the "notepad" and create a file containing the text string "TD-123456"
+1. Launch "Notepad" and create a file containing the text string "TD-123456"
 2. Save the text file to the desktop
 3. Close the text file
 4. Re-open the text file saved on the desktop in step 2 above

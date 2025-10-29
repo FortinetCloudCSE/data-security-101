@@ -14,7 +14,7 @@ weight: 1
 {{% notice %}}:bulb: Use the following naming convention for all lab use cases and configurations: <br><br>
 First initial followed by last name - use case (ex. Josh Smith creating a policy for use case 3 would be "jsmith - Prevent upload of PII to website").{{% /notice %}}
 
-{{% notice %}}:bulb: As you complete each use case policy, you can either choose to test it immediately, or complete all policies prior to testing. If you choose to test immediately, make sure that you publish the policy group. Once the policy group is published, refresh the policy on the endpoint by navigating to:<br>
+{{% notice %}}:bulb: It is recommended that you configure all use cases prior to testing them as some of the later use cases will automatically trigger during testing of earlier use cases if configured ahead of time. If you choose to test immediately, make sure that you publish the policy group. Once the policy group is published, refresh the policy on the endpoint by navigating to:<br>
 
 c:\program files\jazz networks\agent<br>
 

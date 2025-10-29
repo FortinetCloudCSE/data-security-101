@@ -48,7 +48,7 @@ https://fortidlp-training.reveal.nextdlp.com/
 
     {{< figure src="vm_access_13.jpg" alt="labAccess13" >}}
 
-8) Paste the enrollment code copied in step 8 into the text box under "Install with a code" and click "Install:"
+8) Paste the enrollment code copied in step 5 into the text box under "Install with a code" and click "Install:"
 
     {{< figure src="vm_access_15.jpg" alt="labAccess15" >}}
 

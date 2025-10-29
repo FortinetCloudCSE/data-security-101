@@ -54,6 +54,6 @@ agent config refresh<br>
 Once you have refreshed the config, follow the below instructions to test the policy.
 
 1. Navigate to "7-zip.org"
-2. Clock the link to download the .exe file for 64-bit x64 Windows
+2. Click the link to download the .exe file for 64-bit x64 Windows
 3. The file download should be prevented and a warning prompt displayed
 {{% /notice %}}
